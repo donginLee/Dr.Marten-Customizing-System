@@ -124,7 +124,7 @@ function setup() {
   
   
   whichfont=createSelect();
-  whichfont.position(564,86);
+  whichfont.position(500,86);
   whichfont.option('1:street');
   whichfont.option('2:signature');
   
